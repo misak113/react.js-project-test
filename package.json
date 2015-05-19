@@ -1,0 +1,18 @@
+{
+  "name": "react.js-project-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.0",
+    "react-tools": "^0.13.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
